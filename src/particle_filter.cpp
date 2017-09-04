@@ -27,7 +27,7 @@ void ParticleFilter::init(double x, double y, double theta, double std[]) {
 
     // Set the number of particles.
 
-           num_particles = 8;
+           num_particles = 108;
 
            // Set standard deviations for x, y, theta.
 
